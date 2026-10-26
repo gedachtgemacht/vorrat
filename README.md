@@ -2,6 +2,12 @@
 
 Behalte im Blick, was im Kühlschrank und im Vorratsschrank bald abläuft. Offline, ohne Konto, ohne Server. Alles bleibt auf deinem Handy.
 
+<p align="center">
+  <img src="bilder/1-liste.png" width="240" alt="">
+  <img src="bilder/2-statistik.png" width="240" alt="">
+  <img src="bilder/3-detail.png" width="240" alt="">
+</p>
+
 ## Warum
 
 In fast jedem Haushalt landen Lebensmittel im Müll, weil man vergisst, was wann abläuft. vorrat. macht das sichtbar: Produkt rein, Datum rein, fertig. Die App zeigt, was zuerst dran ist, und erinnert dich rechtzeitig. Keine KI, keine Werbung, kein Tracking.
